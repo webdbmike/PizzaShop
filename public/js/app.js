@@ -59,6 +59,9 @@
     }, {
       num: 6,
       name: "Collect Money"
+    }, {
+      num: 7,
+      name: "Drink Beer"
     }];
 
     status.currentStep = 2;
